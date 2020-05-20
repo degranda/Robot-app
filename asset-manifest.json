@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Robot-app/static/css/main.e5a5be4d.chunk.css",
-    "main.js": "/Robot-app/static/js/main.309f3ce6.chunk.js",
-    "main.js.map": "/Robot-app/static/js/main.309f3ce6.chunk.js.map",
+    "main.js": "/Robot-app/static/js/main.339c41ac.chunk.js",
+    "main.js.map": "/Robot-app/static/js/main.339c41ac.chunk.js.map",
     "runtime-main.js": "/Robot-app/static/js/runtime-main.4fc8150c.js",
     "runtime-main.js.map": "/Robot-app/static/js/runtime-main.4fc8150c.js.map",
     "static/js/2.3ec213ac.chunk.js": "/Robot-app/static/js/2.3ec213ac.chunk.js",
     "static/js/2.3ec213ac.chunk.js.map": "/Robot-app/static/js/2.3ec213ac.chunk.js.map",
     "index.html": "/Robot-app/index.html",
-    "precache-manifest.0810b21d08b48ab7fe3e1370fafd93a9.js": "/Robot-app/precache-manifest.0810b21d08b48ab7fe3e1370fafd93a9.js",
+    "precache-manifest.a5c6168b19762cddf725033413ad68b5.js": "/Robot-app/precache-manifest.a5c6168b19762cddf725033413ad68b5.js",
     "service-worker.js": "/Robot-app/service-worker.js",
     "static/css/main.e5a5be4d.chunk.css.map": "/Robot-app/static/css/main.e5a5be4d.chunk.css.map",
     "static/js/2.3ec213ac.chunk.js.LICENSE.txt": "/Robot-app/static/js/2.3ec213ac.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4fc8150c.js",
     "static/js/2.3ec213ac.chunk.js",
     "static/css/main.e5a5be4d.chunk.css",
-    "static/js/main.309f3ce6.chunk.js"
+    "static/js/main.339c41ac.chunk.js"
   ]
 }
